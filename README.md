@@ -32,7 +32,7 @@ Converted an existing desktop-only web page into a **mobile-friendly responsive 
 ## Screenshots
 
 ### Desktop View
-![Desktop View](screenshots/desktop-view.png)
+![Desktop View](screenshot/desktop-view.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](screenshot/mobile-view.png)
